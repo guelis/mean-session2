@@ -1,0 +1,36 @@
+body {
+  color: #666;
+  margin: 1em 0; }
+
+#wrapper {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #ccc; }
+
+#head {
+  width: 30%;
+  margin: 0 auto; }
+  #head h1 {
+    color: #333; }
+
+#mainNav ul {
+  padding: 0;
+  list-style: none; }
+#mainNav li {
+  float: left;
+  padding: 1em; }
+  #mainNav li:first-child {
+    padding-left: 1em; }
+  #mainNav li a {
+    color: #c60;
+    font-weight: bold;
+    text-decoration: none; }
+    #mainNav li a:hover {
+      color: #000; }
+    #mainNav li a img {
+      border: 0; }
+
+#description {
+  padding: 20px; }
+
+/*# sourceMappingURL=styles.css.map */
